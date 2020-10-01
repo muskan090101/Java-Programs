@@ -1,14 +1,13 @@
-package practiceforTI;
-
+//program of sorting the arrays
 import java.util.Arrays;
 import java.util.Scanner;
 
 public class arrayexample {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 		Scanner sc = new Scanner(System.in);
+		//One dimensional array
 		int b[] = {1,2,3,4,5};
 		int a[] = {10, 9, 8, 7, 6, 5, 4, 3, 2, 1};
 		
