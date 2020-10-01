@@ -10,5 +10,9 @@ package hcl;
 			int b = 20;
 			System.out.print(add(a,b));
 		}
+		
+		 public int sub(int a, int b){
+	          return a-b;
+	   }
 	}
 
